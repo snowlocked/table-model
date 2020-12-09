@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1607528435152" clover="3.2.0">
+  <project timestamp="1607528435152" name="All files">
+    <metrics statements="37" coveredstatements="31" conditionals="26" coveredconditionals="14" methods="6" coveredmethods="5" elements="69" coveredelements="50" complexity="0" loc="37" ncloc="37" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="/Users/snowlocked/Javascript/table-model/src/index.ts">
+      <metrics statements="37" coveredstatements="31" conditionals="26" coveredconditionals="14" methods="6" coveredmethods="5"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="31" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="34" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="44" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="45" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="47" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="2" type="stmt"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="61" count="2" type="stmt"/>
+      <line num="62" count="2" type="stmt"/>
+      <line num="63" count="2" type="stmt"/>
+      <line num="65" count="2" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="69" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="70" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="71" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="73" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

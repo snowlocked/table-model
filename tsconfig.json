@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        //生成的脚本需要符合的ECMAScript规范
+        "target": "es5",
+
+        //模块规范
+        "module": "commonjs",
+
+        //引入的库
+        "lib": ["dom", "es6", "dom.iterable", "scripthost"],
+
+        //开启构造器支持
+        "experimentalDecorators": true
+    }
+}
